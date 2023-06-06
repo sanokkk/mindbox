@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1325ffd4_002D5ddd_002D473e_002Db521_002D619bc5c9dcfa/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="RectangelTriangleReturns6AndRectangular" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6731DF26-F2E0-455A-BED4-00E40979DC25::net7.0::MindBox.Test.ShapeTest.RectangleTriangleReturns6AndRectangular&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6731DF26-F2E0-455A-BED4-00E40979DC25::net7.0::MindBox.Test.ShapeTest.NotRectTriangleReturns72AndNotRectangular&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6731DF26-F2E0-455A-BED4-00E40979DC25::net7.0::MindBox.Test.ShapeTest.CircleReturns50&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
